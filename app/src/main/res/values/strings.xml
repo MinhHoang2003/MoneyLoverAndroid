@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoneyLover</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="continue_with_gmail">continue with gmail</string>
+    <string name="chon_nhom">Chon nhom</string>
+    <string name="ghi_chu">Ghi chu</string>
+</resources>
